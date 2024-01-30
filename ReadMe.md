@@ -107,8 +107,8 @@ id: Portugal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Portugal//
-markerFolder: ./Portugal//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Portugal] 
