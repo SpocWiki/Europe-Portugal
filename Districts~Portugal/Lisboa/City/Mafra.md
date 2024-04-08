@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-9.33] 
-[geo-lat::38.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-9.33] 
+[has_place_latitude::38.93] 
 [name::Mafra] 
 State ::  
 Country :: [[Portugal]]  

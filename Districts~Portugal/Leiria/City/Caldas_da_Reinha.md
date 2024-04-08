@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-9.15] 
-[geo-lat::39.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-9.15] 
+[has_place_latitude::39.4] 
 [name::Caldas da Reinha] 
 State ::  
 Country :: [[Portugal]]  

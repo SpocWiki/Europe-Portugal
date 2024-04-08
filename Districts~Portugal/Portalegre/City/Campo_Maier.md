@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-7.08] 
-[geo-lat::39.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-7.08] 
+[has_place_latitude::39.02] 
 [name::Campo Maier] 
 State ::  
 Country :: [[Poland]]  

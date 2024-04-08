@@ -123,8 +123,10 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 ![[Flag_of_Portugal.svg|350]] 
 [Alcohol-l::14.6] 
 [Language-Id::467] 
-[geo-lon::-5.10879] 
-[geo-lat::42.1067] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.10879] 
+[has_place_latitude::42.1067] 
 
 
 

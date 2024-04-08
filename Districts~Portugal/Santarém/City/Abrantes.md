@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-8.22] 
-[geo-lat::39.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-8.22] 
+[has_place_latitude::39.47] 
 [name::Abrantes] 
 State ::  
 Country :: [[Portugal]]  

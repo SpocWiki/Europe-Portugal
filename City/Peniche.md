@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-14.08] 
-[geo-lat::39.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-14.08] 
+[has_place_latitude::39.37] 
 [name::Peniche] 
 State ::  
 Country :: [[Portugal]]  

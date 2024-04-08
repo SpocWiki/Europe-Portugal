@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-8.43] 
-[geo-lat::41.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-8.43] 
+[has_place_latitude::41.35] 
 [name::Villa de Condé] 
 State ::  
 Country :: [[France]]  
