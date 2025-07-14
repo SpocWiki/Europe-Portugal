@@ -40,11 +40,16 @@ markerFolder: ./Coimbra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra|Coimbra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.public|Coimbra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.internal|Coimbra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.protect|Coimbra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.private|Coimbra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.personal|Coimbra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Coimbra.secret|Coimbra.secret]] 
+
+### [Coimbra.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.public.md) 
+
+### [Coimbra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.internal.md) 
+
+### [Coimbra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.protect.md) 
+
+### [Coimbra.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.private.md) 
+
+### [Coimbra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.personal.md) 
+
+### [Coimbra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCoimbra.secret.md)
 

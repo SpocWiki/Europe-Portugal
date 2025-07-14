@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Poland/City/Estremoz|Estremoz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.public|Estremoz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.internal|Estremoz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.protect|Estremoz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.private|Estremoz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.personal|Estremoz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Poland/City/Estremoz.secret|Estremoz.secret]] 
+
+### [Estremoz.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.public.md) 
+
+### [Estremoz.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.internal.md) 
+
+### [Estremoz.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.protect.md) 
+
+### [Estremoz.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.private.md) 
+
+### [Estremoz.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.personal.md) 
+
+### [Estremoz.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEstremoz.secret.md)
+

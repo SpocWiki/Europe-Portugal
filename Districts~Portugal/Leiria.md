@@ -40,11 +40,16 @@ markerFolder: ./Leiria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria|Leiria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.public|Leiria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.internal|Leiria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.protect|Leiria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.private|Leiria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.personal|Leiria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Leiria.secret|Leiria.secret]] 
+
+### [Leiria.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.public.md) 
+
+### [Leiria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.internal.md) 
+
+### [Leiria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.protect.md) 
+
+### [Leiria.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.private.md) 
+
+### [Leiria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.personal.md) 
+
+### [Leiria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLeiria.secret.md)
 

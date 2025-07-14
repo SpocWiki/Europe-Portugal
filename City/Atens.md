@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Atens|Atens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Atens.public|Atens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Atens.internal|Atens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Atens.protect|Atens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Atens.private|Atens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Atens.personal|Atens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Atens.secret|Atens.secret]] 
+
+### [Atens.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.public.md) 
+
+### [Atens.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.internal.md) 
+
+### [Atens.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.protect.md) 
+
+### [Atens.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.private.md) 
+
+### [Atens.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.personal.md) 
+
+### [Atens.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityAtens.secret.md)
+

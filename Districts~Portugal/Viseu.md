@@ -40,11 +40,16 @@ markerFolder: ./Viseu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu|Viseu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.public|Viseu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.internal|Viseu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.protect|Viseu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.private|Viseu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.personal|Viseu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.secret|Viseu.secret]] 
+
+### [Viseu.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.public.md) 
+
+### [Viseu.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.internal.md) 
+
+### [Viseu.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.protect.md) 
+
+### [Viseu.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.private.md) 
+
+### [Viseu.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.personal.md) 
+
+### [Viseu.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.secret.md)
 

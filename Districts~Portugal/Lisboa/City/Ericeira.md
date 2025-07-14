@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira|Ericeira]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.public|Ericeira.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.internal|Ericeira.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.protect|Ericeira.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.private|Ericeira.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.personal|Ericeira.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Ericeira.secret|Ericeira.secret]] 
+
+### [Ericeira.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.public.md) 
+
+### [Ericeira.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.internal.md) 
+
+### [Ericeira.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.protect.md) 
+
+### [Ericeira.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.private.md) 
+
+### [Ericeira.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.personal.md) 
+
+### [Ericeira.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityEriceira.secret.md)
+

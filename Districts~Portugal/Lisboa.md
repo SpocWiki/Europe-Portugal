@@ -40,11 +40,16 @@ markerFolder: ./Lisboa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa|Lisboa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.public|Lisboa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.internal|Lisboa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.protect|Lisboa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.private|Lisboa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.personal|Lisboa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.secret|Lisboa.secret]] 
+
+### [Lisboa.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.public.md) 
+
+### [Lisboa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.internal.md) 
+
+### [Lisboa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.protect.md) 
+
+### [Lisboa.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.private.md) 
+
+### [Lisboa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.personal.md) 
+
+### [Lisboa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.secret.md)
 

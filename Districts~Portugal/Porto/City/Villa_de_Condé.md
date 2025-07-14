@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé|Villa_de_Condé]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.public|Villa_de_Condé.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.internal|Villa_de_Condé.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.protect|Villa_de_Condé.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.private|Villa_de_Condé.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.personal|Villa_de_Condé.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/France/City/Villa_de_Condé.secret|Villa_de_Condé.secret]] 
+
+### [Villa_de_Condé.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.public.md) 
+
+### [Villa_de_Condé.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.internal.md) 
+
+### [Villa_de_Condé.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.protect.md) 
+
+### [Villa_de_Condé.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.private.md) 
+
+### [Villa_de_Condé.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.personal.md) 
+
+### [Villa_de_Condé.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityVilla_de_Condé.secret.md)
+

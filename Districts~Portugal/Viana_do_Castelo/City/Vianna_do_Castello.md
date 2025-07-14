@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello|Vianna_do_Castello]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.public|Vianna_do_Castello.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.internal|Vianna_do_Castello.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.protect|Vianna_do_Castello.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.private|Vianna_do_Castello.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.personal|Vianna_do_Castello.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Vianna_do_Castello.secret|Vianna_do_Castello.secret]] 
+
+### [Vianna_do_Castello.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.public.md) 
+
+### [Vianna_do_Castello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.internal.md) 
+
+### [Vianna_do_Castello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.protect.md) 
+
+### [Vianna_do_Castello.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.private.md) 
+
+### [Vianna_do_Castello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.personal.md) 
+
+### [Vianna_do_Castello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.secret.md)
+

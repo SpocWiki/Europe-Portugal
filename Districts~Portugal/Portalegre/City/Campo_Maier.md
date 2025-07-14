@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier|Campo_Maier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.public|Campo_Maier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.internal|Campo_Maier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.protect|Campo_Maier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.private|Campo_Maier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.personal|Campo_Maier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Poland/City/Campo_Maier.secret|Campo_Maier.secret]] 
+
+### [Campo_Maier.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.public.md) 
+
+### [Campo_Maier.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.internal.md) 
+
+### [Campo_Maier.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.protect.md) 
+
+### [Campo_Maier.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.private.md) 
+
+### [Campo_Maier.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.personal.md) 
+
+### [Campo_Maier.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Portalegre\CityCampo_Maier.secret.md)
+

@@ -127,12 +127,17 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 [has_place_latitude::42.1067] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal|Portugal]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Portugal.public|Portugal.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Portugal.private|Portugal.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\PortugalReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\PortugalReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\PortugalReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\PortugalReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\PortugalReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\PortugalReadMe.secret.md)
+

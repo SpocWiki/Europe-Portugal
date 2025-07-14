@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Pombal|Pombal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.public|Pombal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.internal|Pombal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.protect|Pombal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.private|Pombal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.personal|Pombal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Pombal.secret|Pombal.secret]] 
+
+### [Pombal.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.public.md) 
+
+### [Pombal.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.internal.md) 
+
+### [Pombal.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.protect.md) 
+
+### [Pombal.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.private.md) 
+
+### [Pombal.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.personal.md) 
+
+### [Pombal.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityPombal.secret.md)
+

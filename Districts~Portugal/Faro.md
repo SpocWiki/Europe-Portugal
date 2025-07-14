@@ -40,11 +40,16 @@ markerFolder: ./Faro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro|Faro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.public|Faro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.internal|Faro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.protect|Faro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.private|Faro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.personal|Faro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.secret|Faro.secret]] 
+
+### [Faro.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.public.md) 
+
+### [Faro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.internal.md) 
+
+### [Faro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.protect.md) 
+
+### [Faro.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.private.md) 
+
+### [Faro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.personal.md) 
+
+### [Faro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalFaro.secret.md)
 

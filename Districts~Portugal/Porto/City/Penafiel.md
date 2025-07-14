@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel|Penafiel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.public|Penafiel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.internal|Penafiel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.protect|Penafiel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.private|Penafiel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.personal|Penafiel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Penafiel.secret|Penafiel.secret]] 
+
+### [Penafiel.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.public.md) 
+
+### [Penafiel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.internal.md) 
+
+### [Penafiel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.protect.md) 
+
+### [Penafiel.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.private.md) 
+
+### [Penafiel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.personal.md) 
+
+### [Penafiel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPenafiel.secret.md)
+

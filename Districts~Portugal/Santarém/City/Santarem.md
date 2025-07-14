@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Poland/City/Santarem|Santarem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Poland/City/Santarem.public|Santarem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Poland/City/Santarem.internal|Santarem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Poland/City/Santarem.protect|Santarem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Poland/City/Santarem.private|Santarem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Poland/City/Santarem.personal|Santarem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Poland/City/Santarem.secret|Santarem.secret]] 
+
+### [Santarem.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.public.md) 
+
+### [Santarem.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.internal.md) 
+
+### [Santarem.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.protect.md) 
+
+### [Santarem.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.private.md) 
+
+### [Santarem.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.personal.md) 
+
+### [Santarem.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CitySantarem.secret.md)
+

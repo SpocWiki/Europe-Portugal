@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Guarda|Guarda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.public|Guarda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.internal|Guarda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.protect|Guarda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.private|Guarda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.personal|Guarda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Guarda.secret|Guarda.secret]] 
+
+### [Guarda.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.public.md) 
+
+### [Guarda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.internal.md) 
+
+### [Guarda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.protect.md) 
+
+### [Guarda.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.private.md) 
+
+### [Guarda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.personal.md) 
+
+### [Guarda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Guarda\CityGuarda.secret.md)
+

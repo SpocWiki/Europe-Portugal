@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon|Lissabon=Lisboa=Lisbon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.public|Lissabon=Lisboa=Lisbon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.internal|Lissabon=Lisboa=Lisbon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.protect|Lissabon=Lisboa=Lisbon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.private|Lissabon=Lisboa=Lisbon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.personal|Lissabon=Lisboa=Lisbon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Lissabon=Lisboa=Lisbon.secret|Lissabon=Lisboa=Lisbon.secret]] 
+
+### [Lissabon=Lisboa=Lisbon.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.public.md) 
+
+### [Lissabon=Lisboa=Lisbon.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.internal.md) 
+
+### [Lissabon=Lisboa=Lisbon.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.protect.md) 
+
+### [Lissabon=Lisboa=Lisbon.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.private.md) 
+
+### [Lissabon=Lisboa=Lisbon.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.personal.md) 
+
+### [Lissabon=Lisboa=Lisbon.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Beja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja|Beja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.public|Beja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.internal|Beja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.protect|Beja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.private|Beja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.personal|Beja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Beja.secret|Beja.secret]] 
+
+### [Beja.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.public.md) 
+
+### [Beja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.internal.md) 
+
+### [Beja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.protect.md) 
+
+### [Beja.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.private.md) 
+
+### [Beja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.personal.md) 
+
+### [Beja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.secret.md)
 

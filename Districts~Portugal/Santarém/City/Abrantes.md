@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes|Abrantes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.public|Abrantes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.internal|Abrantes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.protect|Abrantes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.private|Abrantes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.personal|Abrantes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Abrantes.secret|Abrantes.secret]] 
+
+### [Abrantes.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.public.md) 
+
+### [Abrantes.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.internal.md) 
+
+### [Abrantes.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.protect.md) 
+
+### [Abrantes.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.private.md) 
+
+### [Abrantes.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.personal.md) 
+
+### [Abrantes.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Santarém\CityAbrantes.secret.md)
+

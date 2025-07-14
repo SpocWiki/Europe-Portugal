@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Espozende|Espozende]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.public|Espozende.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.internal|Espozende.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.protect|Espozende.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.private|Espozende.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.personal|Espozende.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Espozende.secret|Espozende.secret]] 
+
+### [Espozende.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.public.md) 
+
+### [Espozende.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.internal.md) 
+
+### [Espozende.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.protect.md) 
+
+### [Espozende.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.private.md) 
+
+### [Espozende.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.personal.md) 
+
+### [Espozende.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityEspozende.secret.md)
+

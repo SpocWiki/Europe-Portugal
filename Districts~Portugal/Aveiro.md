@@ -40,11 +40,16 @@ markerFolder: ./Aveiro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro|Aveiro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.public|Aveiro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.internal|Aveiro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.protect|Aveiro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.private|Aveiro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.personal|Aveiro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.secret|Aveiro.secret]] 
+
+### [Aveiro.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.public.md) 
+
+### [Aveiro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.internal.md) 
+
+### [Aveiro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.protect.md) 
+
+### [Aveiro.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.private.md) 
+
+### [Aveiro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.personal.md) 
+
+### [Aveiro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAveiro.secret.md)
 

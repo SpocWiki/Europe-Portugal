@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Mafra|Mafra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.public|Mafra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.internal|Mafra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.protect|Mafra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.private|Mafra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.personal|Mafra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Mafra.secret|Mafra.secret]] 
+
+### [Mafra.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.public.md) 
+
+### [Mafra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.internal.md) 
+
+### [Mafra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.protect.md) 
+
+### [Mafra.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.private.md) 
+
+### [Mafra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.personal.md) 
+
+### [Mafra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.secret.md)
+

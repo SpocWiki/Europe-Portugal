@@ -40,11 +40,16 @@ markerFolder: ./Porto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto|Porto]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.public|Porto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.internal|Porto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.protect|Porto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.private|Porto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.personal|Porto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.secret|Porto.secret]] 
+
+### [Porto.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.public.md) 
+
+### [Porto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.internal.md) 
+
+### [Porto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.protect.md) 
+
+### [Porto.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.private.md) 
+
+### [Porto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.personal.md) 
+
+### [Porto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPorto.secret.md)
 

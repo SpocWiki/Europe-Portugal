@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Monchique|Monchique]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.public|Monchique.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.internal|Monchique.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.protect|Monchique.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.private|Monchique.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.personal|Monchique.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Monchique.secret|Monchique.secret]] 
+
+### [Monchique.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.public.md) 
+
+### [Monchique.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.internal.md) 
+
+### [Monchique.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.protect.md) 
+
+### [Monchique.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.private.md) 
+
+### [Monchique.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.personal.md) 
+
+### [Monchique.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityMonchique.secret.md)
+

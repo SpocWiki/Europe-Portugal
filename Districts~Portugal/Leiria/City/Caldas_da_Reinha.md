@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha|Caldas_da_Reinha]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.public|Caldas_da_Reinha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.internal|Caldas_da_Reinha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.protect|Caldas_da_Reinha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.private|Caldas_da_Reinha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.personal|Caldas_da_Reinha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Caldas_da_Reinha.secret|Caldas_da_Reinha.secret]] 
+
+### [Caldas_da_Reinha.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.public.md) 
+
+### [Caldas_da_Reinha.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.internal.md) 
+
+### [Caldas_da_Reinha.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.protect.md) 
+
+### [Caldas_da_Reinha.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.private.md) 
+
+### [Caldas_da_Reinha.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.personal.md) 
+
+### [Caldas_da_Reinha.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityCaldas_da_Reinha.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Spain/City/Murca|Murca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Spain/City/Murca.public|Murca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Spain/City/Murca.internal|Murca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Spain/City/Murca.protect|Murca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Spain/City/Murca.private|Murca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Spain/City/Murca.personal|Murca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Spain/City/Murca.secret|Murca.secret]] 
+
+### [Murca.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.public.md) 
+
+### [Murca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.internal.md) 
+
+### [Murca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.protect.md) 
+
+### [Murca.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.private.md) 
+
+### [Murca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.personal.md) 
+
+### [Murca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Vila_Real\CityMurca.secret.md)
+

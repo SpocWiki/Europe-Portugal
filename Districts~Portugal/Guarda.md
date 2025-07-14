@@ -40,11 +40,16 @@ markerFolder: ./Guarda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda|Guarda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.public|Guarda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.internal|Guarda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.protect|Guarda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.private|Guarda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.personal|Guarda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.secret|Guarda.secret]] 
+
+### [Guarda.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.public.md) 
+
+### [Guarda.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.internal.md) 
+
+### [Guarda.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.protect.md) 
+
+### [Guarda.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.private.md) 
+
+### [Guarda.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.personal.md) 
+
+### [Guarda.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalGuarda.secret.md)
 

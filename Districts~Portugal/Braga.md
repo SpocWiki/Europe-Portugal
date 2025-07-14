@@ -40,11 +40,16 @@ markerFolder: ./Braga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga|Braga]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.public|Braga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.internal|Braga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.protect|Braga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.private|Braga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.personal|Braga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.secret|Braga.secret]] 
+
+### [Braga.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.public.md) 
+
+### [Braga.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.internal.md) 
+
+### [Braga.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.protect.md) 
+
+### [Braga.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.private.md) 
+
+### [Braga.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.personal.md) 
+
+### [Braga.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBraga.secret.md)
 

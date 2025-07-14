@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Poland/City/Beja|Beja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Poland/City/Beja.public|Beja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Poland/City/Beja.internal|Beja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Poland/City/Beja.protect|Beja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Poland/City/Beja.private|Beja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Poland/City/Beja.personal|Beja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Poland/City/Beja.secret|Beja.secret]] 
+
+### [Beja.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.public.md) 
+
+### [Beja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.internal.md) 
+
+### [Beja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.protect.md) 
+
+### [Beja.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.private.md) 
+
+### [Beja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.personal.md) 
+
+### [Beja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Beja\CityBeja.secret.md)
+

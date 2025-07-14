@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/City/Setubel|Setubel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.public|Setubel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.internal|Setubel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.protect|Setubel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.private|Setubel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.personal|Setubel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/City/Setubel.secret|Setubel.secret]] 
+
+### [Setubel.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.public.md) 
+
+### [Setubel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.internal.md) 
+
+### [Setubel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.protect.md) 
+
+### [Setubel.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.private.md) 
+
+### [Setubel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.personal.md) 
+
+### [Setubel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.secret.md)
+

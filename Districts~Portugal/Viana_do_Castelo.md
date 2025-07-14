@@ -40,11 +40,16 @@ markerFolder: ./Viana_do_Castelo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo|Viana_do_Castelo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.public|Viana_do_Castelo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.internal|Viana_do_Castelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.protect|Viana_do_Castelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.private|Viana_do_Castelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.personal|Viana_do_Castelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Viana_do_Castelo.secret|Viana_do_Castelo.secret]] 
+
+### [Viana_do_Castelo.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.public.md) 
+
+### [Viana_do_Castelo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.internal.md) 
+
+### [Viana_do_Castelo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.protect.md) 
+
+### [Viana_do_Castelo.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.private.md) 
+
+### [Viana_do_Castelo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.personal.md) 
+
+### [Viana_do_Castelo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViana_do_Castelo.secret.md)
 
