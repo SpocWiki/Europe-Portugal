@@ -41,15 +41,17 @@ markerFolder: ./Portalegre/
 
 ## Confidential Links & Embeds: 
 
-### [Portalegre.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.public.md) 
+### [Portalegre](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.md) 
 
-### [Portalegre.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.internal.md) 
+### [Portalegre.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.public.md) 
 
-### [Portalegre.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.protect.md) 
+### [Portalegre.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.internal.md) 
 
-### [Portalegre.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.private.md) 
+### [Portalegre.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.protect.md) 
 
-### [Portalegre.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.personal.md) 
+### [Portalegre.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.private.md) 
 
-### [Portalegre.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalPortalegre.secret.md)
+### [Portalegre.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.personal.md) 
+
+### [Portalegre.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.secret.md)
 

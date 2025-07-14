@@ -41,15 +41,17 @@ markerFolder: ./Castelo_Branco/
 
 ## Confidential Links & Embeds: 
 
-### [Castelo_Branco.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.public.md) 
+### [Castelo_Branco](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.md) 
 
-### [Castelo_Branco.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.internal.md) 
+### [Castelo_Branco.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.public.md) 
 
-### [Castelo_Branco.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.protect.md) 
+### [Castelo_Branco.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.internal.md) 
 
-### [Castelo_Branco.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.private.md) 
+### [Castelo_Branco.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.protect.md) 
 
-### [Castelo_Branco.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.personal.md) 
+### [Castelo_Branco.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.private.md) 
 
-### [Castelo_Branco.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalCastelo_Branco.secret.md)
+### [Castelo_Branco.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.personal.md) 
+
+### [Castelo_Branco.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco.secret.md)
 

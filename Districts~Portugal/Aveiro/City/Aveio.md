@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aveio.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.public.md) 
+### [Aveio](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.md) 
 
-### [Aveio.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.internal.md) 
+### [Aveio.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.public.md) 
 
-### [Aveio.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.protect.md) 
+### [Aveio.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.internal.md) 
 
-### [Aveio.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.private.md) 
+### [Aveio.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.protect.md) 
 
-### [Aveio.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.personal.md) 
+### [Aveio.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.private.md) 
 
-### [Aveio.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Aveiro\CityAveio.secret.md)
+### [Aveio.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.personal.md) 
+
+### [Aveio.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.secret.md)
 

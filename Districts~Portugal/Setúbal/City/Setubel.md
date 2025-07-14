@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Setubel.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.public.md) 
+### [Setubel](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.md) 
 
-### [Setubel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.internal.md) 
+### [Setubel.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.public.md) 
 
-### [Setubel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.protect.md) 
+### [Setubel.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.internal.md) 
 
-### [Setubel.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.private.md) 
+### [Setubel.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.protect.md) 
 
-### [Setubel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.personal.md) 
+### [Setubel.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.private.md) 
 
-### [Setubel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CitySetubel.secret.md)
+### [Setubel.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.personal.md) 
+
+### [Setubel.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.secret.md)
 

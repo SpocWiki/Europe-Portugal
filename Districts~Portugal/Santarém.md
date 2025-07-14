@@ -41,15 +41,17 @@ markerFolder: ./Santarém/
 
 ## Confidential Links & Embeds: 
 
-### [Santarém.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.public.md) 
+### [Santarém](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.md) 
 
-### [Santarém.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.internal.md) 
+### [Santarém.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.public.md) 
 
-### [Santarém.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.protect.md) 
+### [Santarém.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.internal.md) 
 
-### [Santarém.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.private.md) 
+### [Santarém.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.protect.md) 
 
-### [Santarém.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.personal.md) 
+### [Santarém.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.private.md) 
 
-### [Santarém.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSantarém.secret.md)
+### [Santarém.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.personal.md) 
+
+### [Santarém.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Santarém.secret.md)
 

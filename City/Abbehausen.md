@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbehausen.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.public.md) 
+### [Abbehausen](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.md) 
 
-### [Abbehausen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.internal.md) 
+### [Abbehausen.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.public.md) 
 
-### [Abbehausen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.protect.md) 
+### [Abbehausen.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.internal.md) 
 
-### [Abbehausen.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.private.md) 
+### [Abbehausen.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.protect.md) 
 
-### [Abbehausen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.personal.md) 
+### [Abbehausen.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.private.md) 
 
-### [Abbehausen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityAbbehausen.secret.md)
+### [Abbehausen.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.personal.md) 
+
+### [Abbehausen.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.secret.md)
 

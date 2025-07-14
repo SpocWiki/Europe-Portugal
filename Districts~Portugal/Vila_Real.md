@@ -41,15 +41,17 @@ markerFolder: ./Vila_Real/
 
 ## Confidential Links & Embeds: 
 
-### [Vila_Real.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.public.md) 
+### [Vila_Real](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.md) 
 
-### [Vila_Real.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.internal.md) 
+### [Vila_Real.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.public.md) 
 
-### [Vila_Real.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.protect.md) 
+### [Vila_Real.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.internal.md) 
 
-### [Vila_Real.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.private.md) 
+### [Vila_Real.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.protect.md) 
 
-### [Vila_Real.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.personal.md) 
+### [Vila_Real.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.private.md) 
 
-### [Vila_Real.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalVila_Real.secret.md)
+### [Vila_Real.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.personal.md) 
+
+### [Vila_Real.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Vila_Real.secret.md)
 

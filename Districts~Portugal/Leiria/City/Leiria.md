@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leiria.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.public.md) 
+### [Leiria](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.md) 
 
-### [Leiria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.internal.md) 
+### [Leiria.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.public.md) 
 
-### [Leiria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.protect.md) 
+### [Leiria.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.internal.md) 
 
-### [Leiria.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.private.md) 
+### [Leiria.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.protect.md) 
 
-### [Leiria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.personal.md) 
+### [Leiria.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.private.md) 
 
-### [Leiria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Leiria\CityLeiria.secret.md)
+### [Leiria.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.personal.md) 
+
+### [Leiria.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Leiria.secret.md)
 

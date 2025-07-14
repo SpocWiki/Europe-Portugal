@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\PortugalLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\PortugalLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\PortugalLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\PortugalLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\PortugalLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\PortugalLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/License.secret.md)
 

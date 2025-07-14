@@ -41,15 +41,17 @@ markerFolder: ./Viseu/
 
 ## Confidential Links & Embeds: 
 
-### [Viseu.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.public.md) 
+### [Viseu](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.md) 
 
-### [Viseu.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.internal.md) 
+### [Viseu.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.public.md) 
 
-### [Viseu.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.protect.md) 
+### [Viseu.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.internal.md) 
 
-### [Viseu.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.private.md) 
+### [Viseu.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.protect.md) 
 
-### [Viseu.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.personal.md) 
+### [Viseu.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.private.md) 
 
-### [Viseu.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalViseu.secret.md)
+### [Viseu.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.personal.md) 
+
+### [Viseu.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porto.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.public.md) 
+### [Porto](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.md) 
 
-### [Porto.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.internal.md) 
+### [Porto.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.public.md) 
 
-### [Porto.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.protect.md) 
+### [Porto.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.internal.md) 
 
-### [Porto.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.private.md) 
+### [Porto.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.protect.md) 
 
-### [Porto.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.personal.md) 
+### [Porto.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.private.md) 
 
-### [Porto.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Porto\CityPorto.secret.md)
+### [Porto.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.personal.md) 
+
+### [Porto.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.secret.md)
 

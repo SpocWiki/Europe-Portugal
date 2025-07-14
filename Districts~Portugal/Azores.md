@@ -41,15 +41,17 @@ markerFolder: ./Azores/
 
 ## Confidential Links & Embeds: 
 
-### [Azores.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.public.md) 
+### [Azores](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.md) 
 
-### [Azores.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.internal.md) 
+### [Azores.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.public.md) 
 
-### [Azores.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.protect.md) 
+### [Azores.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.internal.md) 
 
-### [Azores.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.private.md) 
+### [Azores.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.protect.md) 
 
-### [Azores.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.personal.md) 
+### [Azores.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.private.md) 
 
-### [Azores.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalAzores.secret.md)
+### [Azores.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.personal.md) 
+
+### [Azores.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Azores.secret.md)
 

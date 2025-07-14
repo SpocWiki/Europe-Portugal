@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Evora.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.public.md) 
+### [Evora](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.md) 
 
-### [Evora.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.internal.md) 
+### [Evora.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.public.md) 
 
-### [Evora.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.protect.md) 
+### [Evora.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.internal.md) 
 
-### [Evora.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.private.md) 
+### [Evora.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.protect.md) 
 
-### [Evora.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.personal.md) 
+### [Evora.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.private.md) 
 
-### [Evora.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Évora\CityEvora.secret.md)
+### [Evora.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.personal.md) 
+
+### [Evora.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.secret.md)
 

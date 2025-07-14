@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castelo-Branco.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.public.md) 
+### [Castelo-Branco](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.md) 
 
-### [Castelo-Branco.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.internal.md) 
+### [Castelo-Branco.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.public.md) 
 
-### [Castelo-Branco.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.protect.md) 
+### [Castelo-Branco.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.internal.md) 
 
-### [Castelo-Branco.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.private.md) 
+### [Castelo-Branco.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.protect.md) 
 
-### [Castelo-Branco.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.personal.md) 
+### [Castelo-Branco.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.private.md) 
 
-### [Castelo-Branco.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Castelo_Branco\CityCastelo-Branco.secret.md)
+### [Castelo-Branco.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.personal.md) 
+
+### [Castelo-Branco.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.secret.md)
 

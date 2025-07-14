@@ -41,15 +41,17 @@ markerFolder: ./Setúbal/
 
 ## Confidential Links & Embeds: 
 
-### [Setúbal.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.public.md) 
+### [Setúbal](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.md) 
 
-### [Setúbal.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.internal.md) 
+### [Setúbal.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.public.md) 
 
-### [Setúbal.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.protect.md) 
+### [Setúbal.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.internal.md) 
 
-### [Setúbal.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.private.md) 
+### [Setúbal.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.protect.md) 
 
-### [Setúbal.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.personal.md) 
+### [Setúbal.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.private.md) 
 
-### [Setúbal.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalSetúbal.secret.md)
+### [Setúbal.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.personal.md) 
+
+### [Setúbal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal.secret.md)
 

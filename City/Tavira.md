@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tavira.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.public.md) 
+### [Tavira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.md) 
 
-### [Tavira.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.internal.md) 
+### [Tavira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.public.md) 
 
-### [Tavira.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.protect.md) 
+### [Tavira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.internal.md) 
 
-### [Tavira.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.private.md) 
+### [Tavira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.protect.md) 
 
-### [Tavira.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.personal.md) 
+### [Tavira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.private.md) 
 
-### [Tavira.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityTavira.secret.md)
+### [Tavira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.personal.md) 
+
+### [Tavira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.secret.md)
 

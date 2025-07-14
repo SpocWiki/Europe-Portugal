@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Almada.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.public.md) 
+### [Almada](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.md) 
 
-### [Almada.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.internal.md) 
+### [Almada.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.public.md) 
 
-### [Almada.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.protect.md) 
+### [Almada.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.internal.md) 
 
-### [Almada.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.private.md) 
+### [Almada.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.protect.md) 
 
-### [Almada.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.personal.md) 
+### [Almada.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.private.md) 
 
-### [Almada.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Setúbal\CityAlmada.secret.md)
+### [Almada.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.personal.md) 
+
+### [Almada.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vianna_do_Castello.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.public.md) 
+### [Vianna_do_Castello](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.md) 
 
-### [Vianna_do_Castello.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.internal.md) 
+### [Vianna_do_Castello.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.public.md) 
 
-### [Vianna_do_Castello.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.protect.md) 
+### [Vianna_do_Castello.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.internal.md) 
 
-### [Vianna_do_Castello.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.private.md) 
+### [Vianna_do_Castello.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.protect.md) 
 
-### [Vianna_do_Castello.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.personal.md) 
+### [Vianna_do_Castello.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.private.md) 
 
-### [Vianna_do_Castello.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Viana_do_Castelo\CityVianna_do_Castello.secret.md)
+### [Vianna_do_Castello.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.personal.md) 
+
+### [Vianna_do_Castello.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.secret.md)
 

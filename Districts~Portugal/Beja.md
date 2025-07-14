@@ -41,15 +41,17 @@ markerFolder: ./Beja/
 
 ## Confidential Links & Embeds: 
 
-### [Beja.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.public.md) 
+### [Beja](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.md) 
 
-### [Beja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.internal.md) 
+### [Beja.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.public.md) 
 
-### [Beja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.protect.md) 
+### [Beja.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.internal.md) 
 
-### [Beja.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.private.md) 
+### [Beja.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.protect.md) 
 
-### [Beja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.personal.md) 
+### [Beja.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.private.md) 
 
-### [Beja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBeja.secret.md)
+### [Beja.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.personal.md) 
+
+### [Beja.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja.secret.md)
 

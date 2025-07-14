@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mafra.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.public.md) 
+### [Mafra](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.md) 
 
-### [Mafra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.internal.md) 
+### [Mafra.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.public.md) 
 
-### [Mafra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.protect.md) 
+### [Mafra.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.internal.md) 
 
-### [Mafra.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.private.md) 
+### [Mafra.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.protect.md) 
 
-### [Mafra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.personal.md) 
+### [Mafra.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.private.md) 
 
-### [Mafra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityMafra.secret.md)
+### [Mafra.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.personal.md) 
+
+### [Mafra.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.secret.md)
 

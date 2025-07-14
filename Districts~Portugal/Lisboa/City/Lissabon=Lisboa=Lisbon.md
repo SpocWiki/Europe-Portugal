@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lissabon=Lisboa=Lisbon.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.public.md) 
+### [Lissabon=Lisboa=Lisbon](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.md) 
 
-### [Lissabon=Lisboa=Lisbon.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.internal.md) 
+### [Lissabon=Lisboa=Lisbon.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.public.md) 
 
-### [Lissabon=Lisboa=Lisbon.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.protect.md) 
+### [Lissabon=Lisboa=Lisbon.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.internal.md) 
 
-### [Lissabon=Lisboa=Lisbon.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.private.md) 
+### [Lissabon=Lisboa=Lisbon.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.protect.md) 
 
-### [Lissabon=Lisboa=Lisbon.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.personal.md) 
+### [Lissabon=Lisboa=Lisbon.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.private.md) 
 
-### [Lissabon=Lisboa=Lisbon.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Lisboa\CityLissabon=Lisboa=Lisbon.secret.md)
+### [Lissabon=Lisboa=Lisbon.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.personal.md) 
+
+### [Lissabon=Lisboa=Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Lissabon=Lisboa=Lisbon.secret.md)
 

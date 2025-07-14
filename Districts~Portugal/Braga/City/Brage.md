@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brage.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.public.md) 
+### [Brage](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.md) 
 
-### [Brage.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.internal.md) 
+### [Brage.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.public.md) 
 
-### [Brage.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.protect.md) 
+### [Brage.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.internal.md) 
 
-### [Brage.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.private.md) 
+### [Brage.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.protect.md) 
 
-### [Brage.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.personal.md) 
+### [Brage.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.private.md) 
 
-### [Brage.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Braga\CityBrage.secret.md)
+### [Brage.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.personal.md) 
+
+### [Brage.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Madeira/
 
 ## Confidential Links & Embeds: 
 
-### [Madeira.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.public.md) 
+### [Madeira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.md) 
 
-### [Madeira.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.internal.md) 
+### [Madeira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.public.md) 
 
-### [Madeira.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.protect.md) 
+### [Madeira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.internal.md) 
 
-### [Madeira.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.private.md) 
+### [Madeira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.protect.md) 
 
-### [Madeira.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.personal.md) 
+### [Madeira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.private.md) 
 
-### [Madeira.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalMadeira.secret.md)
+### [Madeira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.personal.md) 
+
+### [Madeira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Madeira.secret.md)
 

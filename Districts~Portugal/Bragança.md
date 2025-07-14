@@ -41,15 +41,17 @@ markerFolder: ./Bragança/
 
 ## Confidential Links & Embeds: 
 
-### [Bragança.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.public.md) 
+### [Bragança](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.md) 
 
-### [Bragança.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.internal.md) 
+### [Bragança.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.public.md) 
 
-### [Bragança.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.protect.md) 
+### [Bragança.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.internal.md) 
 
-### [Bragança.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.private.md) 
+### [Bragança.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.protect.md) 
 
-### [Bragança.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.personal.md) 
+### [Bragança.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.private.md) 
 
-### [Bragança.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalBragança.secret.md)
+### [Bragança.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.personal.md) 
+
+### [Bragança.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança.secret.md)
 

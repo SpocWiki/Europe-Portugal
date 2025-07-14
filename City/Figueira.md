@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Figueira.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.public.md) 
+### [Figueira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.md) 
 
-### [Figueira.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.internal.md) 
+### [Figueira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.public.md) 
 
-### [Figueira.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.protect.md) 
+### [Figueira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.internal.md) 
 
-### [Figueira.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.private.md) 
+### [Figueira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.protect.md) 
 
-### [Figueira.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.personal.md) 
+### [Figueira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.private.md) 
 
-### [Figueira.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityFigueira.secret.md)
+### [Figueira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.personal.md) 
+
+### [Figueira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.secret.md)
 

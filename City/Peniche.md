@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peniche.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.public.md) 
+### [Peniche](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.md) 
 
-### [Peniche.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.internal.md) 
+### [Peniche.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.public.md) 
 
-### [Peniche.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.protect.md) 
+### [Peniche.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.internal.md) 
 
-### [Peniche.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.private.md) 
+### [Peniche.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.protect.md) 
 
-### [Peniche.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.personal.md) 
+### [Peniche.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.private.md) 
 
-### [Peniche.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\CityPeniche.secret.md)
+### [Peniche.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.personal.md) 
+
+### [Peniche.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.secret.md)
 

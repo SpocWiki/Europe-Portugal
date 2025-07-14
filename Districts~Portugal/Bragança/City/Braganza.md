@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Braganza.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.public.md) 
+### [Braganza](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.md) 
 
-### [Braganza.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.internal.md) 
+### [Braganza.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.public.md) 
 
-### [Braganza.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.protect.md) 
+### [Braganza.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.internal.md) 
 
-### [Braganza.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.private.md) 
+### [Braganza.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.protect.md) 
 
-### [Braganza.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.personal.md) 
+### [Braganza.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.private.md) 
 
-### [Braganza.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Bragança\CityBraganza.secret.md)
+### [Braganza.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.personal.md) 
+
+### [Braganza.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.secret.md)
 

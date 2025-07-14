@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Faro.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.public.md) 
+### [Faro](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.md) 
 
-### [Faro.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.internal.md) 
+### [Faro.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.public.md) 
 
-### [Faro.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.protect.md) 
+### [Faro.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.internal.md) 
 
-### [Faro.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.private.md) 
+### [Faro.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.protect.md) 
 
-### [Faro.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.personal.md) 
+### [Faro.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.private.md) 
 
-### [Faro.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Faro\CityFaro.secret.md)
+### [Faro.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.personal.md) 
+
+### [Faro.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.secret.md)
 

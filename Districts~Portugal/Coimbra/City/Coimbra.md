@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coimbra.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.public.md) 
+### [Coimbra](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.md) 
 
-### [Coimbra.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.internal.md) 
+### [Coimbra.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.public.md) 
 
-### [Coimbra.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.protect.md) 
+### [Coimbra.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.internal.md) 
 
-### [Coimbra.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.private.md) 
+### [Coimbra.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.protect.md) 
 
-### [Coimbra.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.personal.md) 
+### [Coimbra.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.private.md) 
 
-### [Coimbra.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~Portugal\Coimbra\CityCoimbra.secret.md)
+### [Coimbra.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.personal.md) 
+
+### [Coimbra.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.secret.md)
 

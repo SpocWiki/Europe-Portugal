@@ -41,15 +41,17 @@ markerFolder: ./Lisboa/
 
 ## Confidential Links & Embeds: 
 
-### [Lisboa.public](/_public/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.public.md) 
+### [Lisboa](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.md) 
 
-### [Lisboa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.internal.md) 
+### [Lisboa.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.public.md) 
 
-### [Lisboa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.protect.md) 
+### [Lisboa.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.internal.md) 
 
-### [Lisboa.private](/_private/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.private.md) 
+### [Lisboa.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.protect.md) 
 
-### [Lisboa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.personal.md) 
+### [Lisboa.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.private.md) 
 
-### [Lisboa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Portugal\Districts~PortugalLisboa.secret.md)
+### [Lisboa.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.personal.md) 
+
+### [Lisboa.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.secret.md)
 
