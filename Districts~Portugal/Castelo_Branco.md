@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Castelo_Branco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Castelo_Branco/
 markerFolder: ./Castelo_Branco/

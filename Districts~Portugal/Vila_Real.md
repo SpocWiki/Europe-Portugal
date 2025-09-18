@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vila_Real
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vila_Real/
 markerFolder: ./Vila_Real/

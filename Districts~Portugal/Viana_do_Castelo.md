@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Viana_do_Castelo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Viana_do_Castelo/
 markerFolder: ./Viana_do_Castelo/
