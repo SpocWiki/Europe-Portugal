@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::91950] 
 Continent :: [[Europe]]  
 [VehicleCode::P] 
-Capital :: [[Lissabon=Lisboa=Lisbon]]  
+Capital :: [[Districts~Portugal/Lisboa,County/counties~Lisboa/Lisboa,City]]  
 ![[Coat_of_arms_of_Portugal.svg|450]] 
 ![[Anthem-Portugal.mp3]] 
 ![[Flag_of_Portugal.svg|350]] 
