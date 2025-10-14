@@ -184,7 +184,7 @@ State ::
 Country :: [[Portugal]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Lisbon,597|WD~Lisbon,597]] 
 

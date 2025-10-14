@@ -24,7 +24,7 @@ State ::
 Country :: [[Portugal]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 ## #has_/map 
 
