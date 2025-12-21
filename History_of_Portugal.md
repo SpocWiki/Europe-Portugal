@@ -1,15 +1,17 @@
 ---
 aliases:
   - history of Portugal
+  - History_of_Portugal
+  - History of Portugal
 has_id_wikidata: Q7790
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Portugal,13227232]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Portugal,45]]"
-Dewey_Decimal_Classification: "946"
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Portugal,13227232]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Portugal,45]]'
+Dewey_Decimal_Classification: 946
 Commons_category: History of Portugal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Epocas%20principaes%20da%20monarchia%20Lusitana.jpg
 ---

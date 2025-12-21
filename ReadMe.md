@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Portugal
+  - البرتغال
+  - 葡萄牙
+  - Португалия
+  - the Portuguese Republic
+  - la República Portuguesa
+  - ReadMe
 location:
   - 42.1067
   - -5.10879
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Portugal
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Portugal
-  - البرتغال
-  - 葡萄牙
-  - Португалия
-  - the Portuguese Republic
-  - la República Portuguesa
+publishDate: ''
+expiryDate: ''
 Languages:
   - pt-PT
   - mwl

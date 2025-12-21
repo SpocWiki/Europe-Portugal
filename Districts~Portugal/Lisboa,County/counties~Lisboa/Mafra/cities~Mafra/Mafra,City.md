@@ -1,16 +1,19 @@
 ---
-location: [38.93,-9.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mafra,City
+location:
+  - 38.93
+  - -9.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32211
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Mafra,City]]

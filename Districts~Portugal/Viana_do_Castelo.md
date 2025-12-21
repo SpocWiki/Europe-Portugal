@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Viana_do_Castelo
+  - Viana do Castelo
 location:
   - 41.9
   - -8.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Viana_do_Castelo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Viana_do_Castelo
