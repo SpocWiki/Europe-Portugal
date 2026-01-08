@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29306
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.75
+dv_has_place_latitude: 41.82
+dv_name: Braganza
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.75] 
-[has_place_latitude::41.82] 
-[name::Braganza] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Braganza](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza|Braganza]] 
 
-### [Braganza.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.public|Braganza.public]] 
 
-### [Braganza.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.internal|Braganza.internal]] 
 
-### [Braganza.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.protect|Braganza.protect]] 
 
-### [Braganza.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.private|Braganza.private]] 
 
-### [Braganza.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.personal|Braganza.personal]] 
 
-### [Braganza.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Bragança/City/Braganza.secret|Braganza.secret]] 
 

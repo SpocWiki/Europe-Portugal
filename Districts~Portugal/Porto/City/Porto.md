@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33480
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.62
+dv_has_place_latitude: 41.15
+dv_name: Porto
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.62] 
-[has_place_latitude::41.15] 
-[name::Porto] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porto](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto|Porto]] 
 
-### [Porto.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.public|Porto.public]] 
 
-### [Porto.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.internal|Porto.internal]] 
 
-### [Porto.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.protect|Porto.protect]] 
 
-### [Porto.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.private|Porto.private]] 
 
-### [Porto.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.personal|Porto.personal]] 
 
-### [Porto.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Porto.secret|Porto.secret]] 
 

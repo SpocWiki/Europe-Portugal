@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30101
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.93
+dv_has_place_latitude: 38.57
+dv_name: Evora
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.93] 
-[has_place_latitude::38.57] 
-[name::Evora] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Evora](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora|Evora]] 
 
-### [Evora.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.public|Evora.public]] 
 
-### [Evora.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.internal|Evora.internal]] 
 
-### [Evora.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.protect|Evora.protect]] 
 
-### [Evora.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.private|Evora.private]] 
 
-### [Evora.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.personal|Evora.personal]] 
 
-### [Evora.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Evora.secret|Evora.secret]] 
 

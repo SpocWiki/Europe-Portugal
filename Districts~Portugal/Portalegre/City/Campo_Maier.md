@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29463
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.08
+dv_has_place_latitude: 39.02
+dv_name: Campo Maier
+dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.08] 
-[has_place_latitude::39.02] 
-[name::Campo Maier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Campo_Maier](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier|Campo_Maier]] 
 
-### [Campo_Maier.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.public|Campo_Maier.public]] 
 
-### [Campo_Maier.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.internal|Campo_Maier.internal]] 
 
-### [Campo_Maier.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.protect|Campo_Maier.protect]] 
 
-### [Campo_Maier.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.private|Campo_Maier.private]] 
 
-### [Campo_Maier.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.personal|Campo_Maier.personal]] 
 
-### [Campo_Maier.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre/City/Campo_Maier.secret|Campo_Maier.secret]] 
 

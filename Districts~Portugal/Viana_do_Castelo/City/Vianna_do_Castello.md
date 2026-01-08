@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35269
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.72
+dv_has_place_latitude: 41.72
+dv_name: Vianna do Castello
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.72] 
-[has_place_latitude::41.72] 
-[name::Vianna do Castello] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vianna_do_Castello](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello|Vianna_do_Castello]] 
 
-### [Vianna_do_Castello.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.public|Vianna_do_Castello.public]] 
 
-### [Vianna_do_Castello.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.internal|Vianna_do_Castello.internal]] 
 
-### [Vianna_do_Castello.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.protect|Vianna_do_Castello.protect]] 
 
-### [Vianna_do_Castello.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.private|Vianna_do_Castello.private]] 
 
-### [Vianna_do_Castello.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.personal|Vianna_do_Castello.personal]] 
 
-### [Vianna_do_Castello.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo/City/Vianna_do_Castello.secret|Vianna_do_Castello.secret]] 
 

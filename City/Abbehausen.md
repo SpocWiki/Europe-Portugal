@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28644
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.5
+dv_has_place_latitude: 53.48
+dv_name: Abbehausen
+dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.5] 
-[has_place_latitude::53.48] 
-[name::Abbehausen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbehausen](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen|Abbehausen]] 
 
-### [Abbehausen.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.public|Abbehausen.public]] 
 
-### [Abbehausen.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.internal|Abbehausen.internal]] 
 
-### [Abbehausen.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.protect|Abbehausen.protect]] 
 
-### [Abbehausen.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.private|Abbehausen.private]] 
 
-### [Abbehausen.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.personal|Abbehausen.personal]] 
 
-### [Abbehausen.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Abbehausen.secret|Abbehausen.secret]] 
 

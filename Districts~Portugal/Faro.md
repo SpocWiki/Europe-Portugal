@@ -40,17 +40,17 @@ markerFolder: ./Faro/
 
 ## Confidential Links & Embeds: 
 
-### [Faro](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro|Faro]] 
 
-### [Faro.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.public|Faro.public]] 
 
-### [Faro.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.internal|Faro.internal]] 
 
-### [Faro.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.protect|Faro.protect]] 
 
-### [Faro.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.private|Faro.private]] 
 
-### [Faro.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.personal|Faro.personal]] 
 
-### [Faro.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro.secret|Faro.secret]] 
 

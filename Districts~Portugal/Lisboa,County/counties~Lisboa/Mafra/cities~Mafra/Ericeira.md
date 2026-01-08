@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 30049
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.42
+dv_has_place_latitude: 38.95
+dv_name: Ericeira
+dv_Country: "[[../../../../../../Portugal]]"
 ---
 
 # [[Ericeira]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.42] 
-[has_place_latitude::38.95] 
-[name::Ericeira] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ericeira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira|Ericeira]] 
 
-### [Ericeira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.public|Ericeira.public]] 
 
-### [Ericeira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.internal|Ericeira.internal]] 
 
-### [Ericeira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.protect|Ericeira.protect]] 
 
-### [Ericeira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.private|Ericeira.private]] 
 
-### [Ericeira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.personal|Ericeira.personal]] 
 
-### [Ericeira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Ericeira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Ericeira.secret|Ericeira.secret]] 
 

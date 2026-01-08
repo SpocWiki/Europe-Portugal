@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34221
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.9
+dv_has_place_latitude: 38.53
+dv_name: Setubel
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.9] 
-[has_place_latitude::38.53] 
-[name::Setubel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Setubel](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel|Setubel]] 
 
-### [Setubel.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.public|Setubel.public]] 
 
-### [Setubel.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.internal|Setubel.internal]] 
 
-### [Setubel.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.protect|Setubel.protect]] 
 
-### [Setubel.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.private|Setubel.private]] 
 
-### [Setubel.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.personal|Setubel.personal]] 
 
-### [Setubel.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Setubel.secret|Setubel.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28944
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.65
+dv_has_place_latitude: 40.65
+dv_name: Aveio
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.65] 
-[has_place_latitude::40.65] 
-[name::Aveio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aveio](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio|Aveio]] 
 
-### [Aveio.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.public|Aveio.public]] 
 
-### [Aveio.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.internal|Aveio.internal]] 
 
-### [Aveio.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.protect|Aveio.protect]] 
 
-### [Aveio.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.private|Aveio.private]] 
 
-### [Aveio.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.personal|Aveio.personal]] 
 
-### [Aveio.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro/City/Aveio.secret|Aveio.secret]] 
 

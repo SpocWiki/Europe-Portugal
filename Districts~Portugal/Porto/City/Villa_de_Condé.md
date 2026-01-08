@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35295
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.43
+dv_has_place_latitude: 41.35
+dv_name: Villa de Condé
+dv_Country: "[[../../../../../Europe~West/France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.43] 
-[has_place_latitude::41.35] 
-[name::Villa de Condé] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villa_de_Condé](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé|Villa_de_Condé]] 
 
-### [Villa_de_Condé.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.public|Villa_de_Condé.public]] 
 
-### [Villa_de_Condé.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.internal|Villa_de_Condé.internal]] 
 
-### [Villa_de_Condé.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.protect|Villa_de_Condé.protect]] 
 
-### [Villa_de_Condé.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.private|Villa_de_Condé.private]] 
 
-### [Villa_de_Condé.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.personal|Villa_de_Condé.personal]] 
 
-### [Villa_de_Condé.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto/City/Villa_de_Condé.secret|Villa_de_Condé.secret]] 
 

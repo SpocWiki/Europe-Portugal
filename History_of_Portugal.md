@@ -4,21 +4,24 @@ aliases:
   - History_of_Portugal
   - History of Portugal
 has_id_wikidata: Q7790
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Portugal,13227232]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Portugal,45]]'
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Portugal,13227232]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Portugal,45]]"
 Dewey_Decimal_Classification: 946
 Commons_category: History of Portugal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Epocas%20principaes%20da%20monarchia%20Lusitana.jpg
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Portugal,7790|WD~History_of_Portugal,7790]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Portugal,7790|WD~History_of_Portugal,7790]]"
 ---
 
 # [[History_of_Portugal]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Portugal,7790|WD~History_of_Portugal,7790]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -73,4 +76,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Epocas%20principaes%20
 > In 1910, a revolution deposed the monarchy. A military coup in 1926 installed a dictatorship that remained until another coup in 1974. The new government instituted sweeping democratic reforms and granted independence to all of Portugal's African colonies in 1975. Portugal is a founding member of NATO, the Organisation for Economic Co-operation and Development (OECD), the European Free Trade Association (EFTA), and the Community of Portuguese Language Countries. It entered the European Economic Community (now the European Union) in 1986.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Portugal) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal|History_of_Portugal]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.public|History_of_Portugal.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.internal|History_of_Portugal.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.protect|History_of_Portugal.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.private|History_of_Portugal.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.personal|History_of_Portugal.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/History_of_Portugal.secret|History_of_Portugal.secret]] 
 

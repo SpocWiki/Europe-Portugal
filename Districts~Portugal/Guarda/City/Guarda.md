@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30630
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.27
+dv_has_place_latitude: 40.53
+dv_name: Guarda
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.27] 
-[has_place_latitude::40.53] 
-[name::Guarda] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guarda](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda|Guarda]] 
 
-### [Guarda.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.public|Guarda.public]] 
 
-### [Guarda.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.internal|Guarda.internal]] 
 
-### [Guarda.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.protect|Guarda.protect]] 
 
-### [Guarda.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.private|Guarda.private]] 
 
-### [Guarda.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.personal|Guarda.personal]] 
 
-### [Guarda.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Guarda/City/Guarda.secret|Guarda.secret]] 
 

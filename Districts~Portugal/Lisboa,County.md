@@ -20,11 +20,12 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_: {}
 ---
 
 # [[Lisboa,County]]
@@ -48,17 +49,17 @@ markerFile: [[Lisboa,County]]
 
 ## Confidential Links & Embeds: 
 
-### [Lisboa](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County|Lisboa,County]] 
 
-### [Lisboa.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.public|Lisboa,County.public]] 
 
-### [Lisboa.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.internal|Lisboa,County.internal]] 
 
-### [Lisboa.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.protect|Lisboa,County.protect]] 
 
-### [Lisboa.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.private|Lisboa,County.private]] 
 
-### [Lisboa.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.personal|Lisboa,County.personal]] 
 
-### [Lisboa.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County.secret|Lisboa,County.secret]] 
 

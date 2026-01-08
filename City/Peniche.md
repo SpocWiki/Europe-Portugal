@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33290
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -14.08
+dv_has_place_latitude: 39.37
+dv_name: Peniche
+dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-14.08] 
-[has_place_latitude::39.37] 
-[name::Peniche] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peniche](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche|Peniche]] 
 
-### [Peniche.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.public|Peniche.public]] 
 
-### [Peniche.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.internal|Peniche.internal]] 
 
-### [Peniche.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.protect|Peniche.protect]] 
 
-### [Peniche.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.private|Peniche.private]] 
 
-### [Peniche.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.personal|Peniche.personal]] 
 
-### [Peniche.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Peniche.secret|Peniche.secret]] 
 

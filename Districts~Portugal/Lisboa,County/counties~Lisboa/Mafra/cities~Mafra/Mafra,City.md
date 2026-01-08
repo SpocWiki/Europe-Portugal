@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32211
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.33
+dv_has_place_latitude: 38.93
+dv_name: Mafra
+dv_Country: "[[../../../../../../Portugal]]"
 ---
 
 # [[Mafra,City]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.33] 
-[has_place_latitude::38.93] 
-[name::Mafra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mafra](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City|Mafra,City]] 
 
-### [Mafra.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.public|Mafra,City.public]] 
 
-### [Mafra.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.internal|Mafra,City.internal]] 
 
-### [Mafra.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.protect|Mafra,City.protect]] 
 
-### [Mafra.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.private|Mafra,City.private]] 
 
-### [Mafra.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.personal|Mafra,City.personal]] 
 
-### [Mafra.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa/City/Mafra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Mafra/cities~Mafra/Mafra,City.secret|Mafra,City.secret]] 
 

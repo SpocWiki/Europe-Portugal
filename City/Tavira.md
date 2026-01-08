@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34783
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.42
+dv_has_place_latitude: 37.05
+dv_name: Tavira
+dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.42] 
-[has_place_latitude::37.05] 
-[name::Tavira] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tavira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira|Tavira]] 
 
-### [Tavira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.public|Tavira.public]] 
 
-### [Tavira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.internal|Tavira.internal]] 
 
-### [Tavira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.protect|Tavira.protect]] 
 
-### [Tavira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.private|Tavira.private]] 
 
-### [Tavira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.personal|Tavira.personal]] 
 
-### [Tavira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Tavira.secret|Tavira.secret]] 
 

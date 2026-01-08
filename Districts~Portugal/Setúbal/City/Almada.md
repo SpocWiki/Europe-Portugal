@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28751
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.17
+dv_has_place_latitude: 38.67
+dv_name: Almada
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.17] 
-[has_place_latitude::38.67] 
-[name::Almada] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Almada](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada|Almada]] 
 
-### [Almada.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.public|Almada.public]] 
 
-### [Almada.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.internal|Almada.internal]] 
 
-### [Almada.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.protect|Almada.protect]] 
 
-### [Almada.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.private|Almada.private]] 
 
-### [Almada.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.personal|Almada.personal]] 
 
-### [Almada.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Setúbal/City/Almada.secret|Almada.secret]] 
 

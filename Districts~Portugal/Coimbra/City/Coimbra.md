@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29639
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.43
+dv_has_place_latitude: 40.2
+dv_name: Coimbra
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.43] 
-[has_place_latitude::40.2] 
-[name::Coimbra] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coimbra](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra|Coimbra]] 
 
-### [Coimbra.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.public|Coimbra.public]] 
 
-### [Coimbra.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.internal|Coimbra.internal]] 
 
-### [Coimbra.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.protect|Coimbra.protect]] 
 
-### [Coimbra.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.private|Coimbra.private]] 
 
-### [Coimbra.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.personal|Coimbra.personal]] 
 
-### [Coimbra.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Coimbra/City/Coimbra.secret|Coimbra.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28912
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.5
+dv_has_place_latitude: 53.48
+dv_name: Atens
+dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.5] 
-[has_place_latitude::53.48] 
-[name::Atens] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Atens](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Atens|Atens]] 
 
-### [Atens.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.public|Atens.public]] 
 
-### [Atens.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.internal|Atens.internal]] 
 
-### [Atens.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.protect|Atens.protect]] 
 
-### [Atens.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.private|Atens.private]] 
 
-### [Atens.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.personal|Atens.personal]] 
 
-### [Atens.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Atens.secret|Atens.secret]] 
 

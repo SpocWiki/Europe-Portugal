@@ -40,17 +40,17 @@ markerFolder: ./Porto/
 
 ## Confidential Links & Embeds: 
 
-### [Porto](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto|Porto]] 
 
-### [Porto.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.public|Porto.public]] 
 
-### [Porto.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.internal|Porto.internal]] 
 
-### [Porto.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.protect|Porto.protect]] 
 
-### [Porto.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.private|Porto.private]] 
 
-### [Porto.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.personal|Porto.personal]] 
 
-### [Porto.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Porto.secret|Porto.secret]] 
 

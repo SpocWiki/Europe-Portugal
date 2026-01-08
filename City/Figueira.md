@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30163
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.85
+dv_has_place_latitude: 40.15
+dv_name: Figueira
+dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.85] 
-[has_place_latitude::40.15] 
-[name::Figueira] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Figueira](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira|Figueira]] 
 
-### [Figueira.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.public|Figueira.public]] 
 
-### [Figueira.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.internal|Figueira.internal]] 
 
-### [Figueira.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.protect|Figueira.protect]] 
 
-### [Figueira.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.private|Figueira.private]] 
 
-### [Figueira.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.personal|Figueira.personal]] 
 
-### [Figueira.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/City/Figueira.secret|Figueira.secret]] 
 

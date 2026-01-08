@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30079
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.63
+dv_has_place_latitude: 38.83
+dv_name: Estremoz
+dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.63] 
-[has_place_latitude::38.83] 
-[name::Estremoz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Estremoz](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz|Estremoz]] 
 
-### [Estremoz.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.public|Estremoz.public]] 
 
-### [Estremoz.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.internal|Estremoz.internal]] 
 
-### [Estremoz.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.protect|Estremoz.protect]] 
 
-### [Estremoz.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.private|Estremoz.private]] 
 
-### [Estremoz.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.personal|Estremoz.personal]] 
 
-### [Estremoz.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Évora/City/Estremoz.secret|Estremoz.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Viseu/
 
 ## Confidential Links & Embeds: 
 
-### [Viseu](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu|Viseu]] 
 
-### [Viseu.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.public|Viseu.public]] 
 
-### [Viseu.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.internal|Viseu.internal]] 
 
-### [Viseu.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.protect|Viseu.protect]] 
 
-### [Viseu.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.private|Viseu.private]] 
 
-### [Viseu.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.personal|Viseu.personal]] 
 
-### [Viseu.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viseu.secret|Viseu.secret]] 
 

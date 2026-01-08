@@ -40,17 +40,17 @@ markerFolder: ./Portalegre/
 
 ## Confidential Links & Embeds: 
 
-### [Portalegre](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre|Portalegre]] 
 
-### [Portalegre.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.public|Portalegre.public]] 
 
-### [Portalegre.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.internal|Portalegre.internal]] 
 
-### [Portalegre.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.protect|Portalegre.protect]] 
 
-### [Portalegre.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.private|Portalegre.private]] 
 
-### [Portalegre.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.personal|Portalegre.personal]] 
 
-### [Portalegre.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Portalegre.secret|Portalegre.secret]] 
 

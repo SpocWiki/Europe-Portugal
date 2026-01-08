@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30136
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.88
+dv_has_place_latitude: 37.02
+dv_name: Faro
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.88] 
-[has_place_latitude::37.02] 
-[name::Faro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Faro](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro|Faro]] 
 
-### [Faro.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.public|Faro.public]] 
 
-### [Faro.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.internal|Faro.internal]] 
 
-### [Faro.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.protect|Faro.protect]] 
 
-### [Faro.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.private|Faro.private]] 
 
-### [Faro.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.personal|Faro.personal]] 
 
-### [Faro.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Faro/City/Faro.secret|Faro.secret]] 
 

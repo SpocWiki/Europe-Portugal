@@ -41,17 +41,17 @@ markerFolder: ./Viana_do_Castelo/
 
 ## Confidential Links & Embeds: 
 
-### [Viana_do_Castelo](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo|Viana_do_Castelo]] 
 
-### [Viana_do_Castelo.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.public|Viana_do_Castelo.public]] 
 
-### [Viana_do_Castelo.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.internal|Viana_do_Castelo.internal]] 
 
-### [Viana_do_Castelo.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.protect|Viana_do_Castelo.protect]] 
 
-### [Viana_do_Castelo.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.private|Viana_do_Castelo.private]] 
 
-### [Viana_do_Castelo.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.personal|Viana_do_Castelo.personal]] 
 
-### [Viana_do_Castelo.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Viana_do_Castelo.secret|Viana_do_Castelo.secret]] 
 

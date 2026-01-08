@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29511
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.5
+dv_has_place_latitude: 39.83
+dv_name: Castelo-Branco
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.5] 
-[has_place_latitude::39.83] 
-[name::Castelo-Branco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castelo-Branco](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco|Castelo-Branco]] 
 
-### [Castelo-Branco.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.public|Castelo-Branco.public]] 
 
-### [Castelo-Branco.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.internal|Castelo-Branco.internal]] 
 
-### [Castelo-Branco.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.protect|Castelo-Branco.protect]] 
 
-### [Castelo-Branco.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.private|Castelo-Branco.private]] 
 
-### [Castelo-Branco.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.personal|Castelo-Branco.personal]] 
 
-### [Castelo-Branco.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Castelo_Branco/City/Castelo-Branco.secret|Castelo-Branco.secret]] 
 

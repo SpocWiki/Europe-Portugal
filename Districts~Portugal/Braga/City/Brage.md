@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29307
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.42
+dv_has_place_latitude: 41.55
+dv_name: Brage
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.42] 
-[has_place_latitude::41.55] 
-[name::Brage] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brage](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage|Brage]] 
 
-### [Brage.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.public|Brage.public]] 
 
-### [Brage.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.internal|Brage.internal]] 
 
-### [Brage.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.protect|Brage.protect]] 
 
-### [Brage.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.private|Brage.private]] 
 
-### [Brage.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.personal|Brage.personal]] 
 
-### [Brage.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Braga/City/Brage.secret|Brage.secret]] 
 

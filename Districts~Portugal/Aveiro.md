@@ -40,17 +40,17 @@ markerFolder: ./Aveiro/
 
 ## Confidential Links & Embeds: 
 
-### [Aveiro](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro|Aveiro]] 
 
-### [Aveiro.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.public|Aveiro.public]] 
 
-### [Aveiro.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.internal|Aveiro.internal]] 
 
-### [Aveiro.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.protect|Aveiro.protect]] 
 
-### [Aveiro.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.private|Aveiro.private]] 
 
-### [Aveiro.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.personal|Aveiro.personal]] 
 
-### [Aveiro.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Aveiro.secret|Aveiro.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33441
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.63
+dv_has_place_latitude: 39.92
+dv_name: Pombal
+dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.63] 
-[has_place_latitude::39.92] 
-[name::Pombal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Portugal]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pombal](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal|Pombal]] 
 
-### [Pombal.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.public|Pombal.public]] 
 
-### [Pombal.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.internal|Pombal.internal]] 
 
-### [Pombal.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.protect|Pombal.protect]] 
 
-### [Pombal.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.private|Pombal.private]] 
 
-### [Pombal.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.personal|Pombal.personal]] 
 
-### [Pombal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Leiria/City/Pombal.secret|Pombal.secret]] 
 

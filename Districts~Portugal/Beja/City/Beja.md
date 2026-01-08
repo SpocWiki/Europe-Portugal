@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29073
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.87
+dv_has_place_latitude: 38.02
+dv_name: Beja
+dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.87] 
-[has_place_latitude::38.02] 
-[name::Beja] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beja](/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja|Beja]] 
 
-### [Beja.public](/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.public|Beja.public]] 
 
-### [Beja.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.internal|Beja.internal]] 
 
-### [Beja.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.protect|Beja.protect]] 
 
-### [Beja.private](/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.private|Beja.private]] 
 
-### [Beja.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.personal|Beja.personal]] 
 
-### [Beja.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal/Districts~Portugal/Beja/City/Beja.secret|Beja.secret]] 
 
