@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.8
 dv_has_place_latitude: 39.73
-dv_name: Leiria
+dv_has_name_: Leiria
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

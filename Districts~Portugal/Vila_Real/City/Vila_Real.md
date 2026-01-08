@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.75
 dv_has_place_latitude: 41.3
-dv_name: Vila Real
+dv_has_name_: Vila Real
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

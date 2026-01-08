@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.42
 dv_has_place_latitude: 37.05
-dv_name: Tavira
+dv_has_name_: Tavira
 dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.93
 dv_has_place_latitude: 38.57
-dv_name: Evora
+dv_has_name_: Evora
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

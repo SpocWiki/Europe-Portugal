@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.65
 dv_has_place_latitude: 40.65
-dv_name: Aveio
+dv_has_name_: Aveio
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

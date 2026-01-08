@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.87
 dv_has_place_latitude: 38.02
-dv_name: Beja
+dv_has_name_: Beja
 dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  

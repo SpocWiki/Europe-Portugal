@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.22
 dv_has_place_latitude: 39.47
-dv_name: Abrantes
+dv_has_name_: Abrantes
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

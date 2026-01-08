@@ -175,7 +175,7 @@ postal_code: 1000–1900
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.13
 dv_has_place_latitude: 38.72
-dv_name: Lissabon=Lisboa=Lisbon
+dv_has_name_: Lissabon=Lisboa=Lisbon
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Lisbon,597|WD~Lisbon,597]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Lisbon,597|WD~Lisbon,597]]"

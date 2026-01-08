@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.15
 dv_has_place_latitude: 39.4
-dv_name: Caldas da Reinha
+dv_has_name_: Caldas da Reinha
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

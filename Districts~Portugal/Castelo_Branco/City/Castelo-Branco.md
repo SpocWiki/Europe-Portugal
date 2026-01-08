@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.5
 dv_has_place_latitude: 39.83
-dv_name: Castelo-Branco
+dv_has_name_: Castelo-Branco
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

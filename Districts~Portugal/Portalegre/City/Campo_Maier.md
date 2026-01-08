@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.08
 dv_has_place_latitude: 39.02
-dv_name: Campo Maier
+dv_has_name_: Campo Maier
 dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  

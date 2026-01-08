@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.27
 dv_has_place_latitude: 40.53
-dv_name: Guarda
+dv_has_name_: Guarda
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.72
 dv_has_place_latitude: 41.72
-dv_name: Vianna do Castello
+dv_has_name_: Vianna do Castello
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

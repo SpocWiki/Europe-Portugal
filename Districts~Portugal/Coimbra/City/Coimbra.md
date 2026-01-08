@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.43
 dv_has_place_latitude: 40.2
-dv_name: Coimbra
+dv_has_name_: Coimbra
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

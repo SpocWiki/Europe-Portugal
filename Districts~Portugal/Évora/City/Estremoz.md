@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.63
 dv_has_place_latitude: 38.83
-dv_name: Estremoz
+dv_has_name_: Estremoz
 dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  

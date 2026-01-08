@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.75
 dv_has_place_latitude: 41.55
-dv_name: Espozende
+dv_has_name_: Espozende
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.9
 dv_has_place_latitude: 38.53
-dv_name: Setubel
+dv_has_name_: Setubel
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

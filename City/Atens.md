@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.5
 dv_has_place_latitude: 53.48
-dv_name: Atens
+dv_has_name_: Atens
 dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  

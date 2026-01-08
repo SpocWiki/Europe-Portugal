@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -14.08
 dv_has_place_latitude: 39.37
-dv_name: Peniche
+dv_has_name_: Peniche
 dv_Country: "[[../../Portugal]]"
 ---
 #is_a_/Place  

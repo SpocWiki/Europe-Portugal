@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.45
 dv_has_place_latitude: 39.3
-dv_name: Portalegre
+dv_has_name_: Portalegre
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  

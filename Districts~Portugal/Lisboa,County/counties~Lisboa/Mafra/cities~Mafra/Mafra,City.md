@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.33
 dv_has_place_latitude: 38.93
-dv_name: Mafra
+dv_has_name_: Mafra
 dv_Country: "[[../../../../../../Portugal]]"
 ---
 

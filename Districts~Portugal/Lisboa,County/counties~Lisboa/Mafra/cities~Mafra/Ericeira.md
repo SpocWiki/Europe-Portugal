@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.42
 dv_has_place_latitude: 38.95
-dv_name: Ericeira
+dv_has_name_: Ericeira
 dv_Country: "[[../../../../../../Portugal]]"
 ---
 

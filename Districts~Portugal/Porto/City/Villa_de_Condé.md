@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.43
 dv_has_place_latitude: 41.35
-dv_name: Villa de Condé
+dv_has_name_: Villa de Condé
 dv_Country: "[[../../../../../Europe~West/France]]"
 ---
 #is_a_/Place  

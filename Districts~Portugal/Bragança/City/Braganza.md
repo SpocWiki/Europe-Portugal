@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.75
 dv_has_place_latitude: 41.82
-dv_name: Braganza
+dv_has_name_: Braganza
 dv_Country: "[[../../../../Portugal]]"
 ---
 #is_a_/Place  
