@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.42
 dv_has_place_latitude: 38.95
-dv_has_name_: Ericeira
+dv_has_name: Ericeira
 dv_Country: "[[../../../../../../Portugal]]"
 ---
 
@@ -27,7 +27,7 @@ dv_Country: "[[../../../../../../Portugal]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
